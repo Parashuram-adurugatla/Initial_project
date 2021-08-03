@@ -1,2 +1,2 @@
 # Initial_project
-for learning
+for learning git commands to practise
